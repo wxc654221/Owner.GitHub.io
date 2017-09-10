@@ -1,1 +1,5 @@
 theme: jekyll-theme-hacker
+deploy:
+type: git
+repository: git@github.com:wxc654221/Owner.github.io.git
+branch: master
